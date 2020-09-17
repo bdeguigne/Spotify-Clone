@@ -1,0 +1,63 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="bottomNavigationStyle">@style/BottomNavigationTheme</item>
+    </style>
+
+    <style name="tabs" parent="Widget.MaterialComponents.TabLayout">
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="BottomNavigationTheme" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <style name="BottomNavigationViewTextStyle">
+        <item name="android:fontFamily">@font/gotham_book</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="AppTheme.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:fontFamily">@font/gotham_book</item>
+    </style>
+
+    <style name="AppTheme.Button.Colored" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/gotham_book</item>
+    </style>
+
+    <style name="AppTheme.Button.Green" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/text</item>
+        <item name="backgroundTint">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/gotham_bold</item>
+        <item name="android:radius">30dp</item>
+    </style>
+
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/gotham_bold</item>
+    </style>
+
+    <style name="Regular">
+        <item name="android:fontFamily">@font/gotham_book</item>
+        <item name="fontFamily">@font/gotham_book</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="Bold">
+        <item name="android:fontFamily">@font/gotham_bold</item>
+        <item name="fontFamily">@font/gotham_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+</resources>

@@ -1,0 +1,507 @@
+{
+  "home": [
+    {
+      "title": "Écoutés récemment",
+      "artistGrid": false,
+      "content": [
+        {
+          "name": "LMF",
+          "imageURL": "https://pbs.twimg.com/profile_images/1297355320189222912/__CfYSlA_400x400.jpg"
+        },
+        {
+          "name": "Adios Bahamas",
+          "imageURL": "https://m.media-amazon.com/images/I/81HQ44wA0XL._SS500_.jpg"
+        },
+        {
+          "name": "Heaven Or Hell",
+          "imageURL": "https://media.pitchfork.com/photos/5e6fa0935d64430008c92fa0/1:1/w_600/Heaven%20or%20Hell_Don%20Toliver.jpg"
+        },
+        {
+          "name": "Astroworld",
+          "imageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ca3/203543227.jpeg"
+        },
+        {
+          "name": "Les Étoiles vagabondes",
+          "imageURL": "https://i.scdn.co/image/ab67616d0000b273593010ad0fe1ceee884cd756"
+        },
+        {
+          "name": "Rolling Papers",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71WRHYmYu5L._SX425_.jpg"
+        },
+        {
+          "name": "The Scotts",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/48/The_Scotts_-_The_Scotts.png"
+        },
+        {
+          "name": "NO FUTURE",
+          "imageURL": "https://images.genius.com/6ff98c4bd5c4f83391842bb45dfa96f5.300x300x1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Vos artistes préférés",
+      "artistGrid": true,
+      "content": [
+        {
+          "name": "Juice WRLD",
+          "imageURL": "https://i.scdn.co/image/d8e62447a338a882b490460da20e90aac6d60ae7"
+        },
+        {
+          "name": "Freeze Corleone",
+          "imageURL": "https://i.scdn.co/image/625b85acc455e768c77d419de6df558feb2b6336"
+        },
+        {
+          "name": "Travis Scott",
+          "imageURL": "https://i.scdn.co/image/fec51156ed94b7ee30fbd4c7fd29b4a840e7daec"
+        },
+        {
+          "name": "Nekfeu",
+          "imageURL": "https://cdn.radiofrance.fr/s3/cruiser-production/2016/12/850a10c8-8c06-11e8-a11d-42010ae60007/801x410_sitesdefaultfiles20161205274667nekfeu-cyborg-by-ojoz-123121-lo.jpg"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "imageURL": "https://themusicnetwork.com/wp-content/uploads/spotify-enlists-wiz-khalifa-for-relaunched-kids-category.jpg"
+        },
+        {
+          "name": "Caballero & JeanJass",
+          "imageURL": "https://i.scdn.co/image/01b4c362c10571eeacee0af7715d32e28732a5df"
+        },
+        {
+          "name": "Sneazzy",
+          "imageURL":"https://i.scdn.co/image/c3f8037f7cb80e08f1cdc4b486fa075eb33715f9"
+        }
+      ]
+    },
+    {
+      "title": "Albums populaires",
+      "artistGrid": false,
+      "content": [
+        {
+          "name": "Deux Frères",
+          "imageURL": "https://www.abcdrduson.com/wp-content/uploads/2019/04/pnl-deux-freres.png"
+        },
+        {
+          "name": "Shoot for the stars aim for the moon",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/be/ShootForTheStarsAimForTheMoon.png"
+        },
+        {
+          "name": "M.I.L.S 3",
+          "imageURL": "https://static.fnac-static.com/multimedia/Images/FR/NR/b3/19/b3/11737523/1507-1/tsp20200309114200/M-I-L-S-3.jpg"
+        },
+        {
+          "name": "Mafana",
+          "imageURL": "https://images.genius.com/1de08380e048dfc10fc3ea9a4b55f63a.500x500x1.jpg"
+        },
+        {
+          "name": "After Hours",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/A1j7-Mj3aHL._SL1500_.jpg"
+        },
+        {
+          "name": "NOUVO MODE",
+          "imageURL": "https://static.fnac-static.com/multimedia/Images/FR/NR/db/19/b3/11737563/1540-1/tsp20200207103135/Nouvo-Mode.jpg"
+        },
+        {
+          "name": "NO FUTURE",
+          "imageURL": "https://images.genius.com/6ff98c4bd5c4f83391842bb45dfa96f5.300x300x1.jpg"
+        },
+        {
+          "name": "Heaven Or Hell",
+          "imageURL": "https://media.pitchfork.com/photos/5e6fa0935d64430008c92fa0/1:1/w_600/Heaven%20or%20Hell_Don%20Toliver.jpg"
+        },
+        {
+          "name": "LMF",
+          "imageURL": "https://pbs.twimg.com/profile_images/1297355320189222912/__CfYSlA_400x400.jpg"
+        },
+        {
+          "name": "Adios Bahamas",
+          "imageURL": "https://m.media-amazon.com/images/I/81HQ44wA0XL._SS500_.jpg"
+        },
+        {
+          "name": "Les Étoiles Vagabondes",
+          "imageURL": "https://i.scdn.co/image/ab67616d0000b273593010ad0fe1ceee884cd756"
+        },
+        {
+          "name": "Rolling Papers",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71WRHYmYu5L._SX425_.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Artistes recommandés",
+      "artistGrid": true,
+      "content": [
+        {
+          "name": "Nekfeu",
+          "imageURL": "https://cdn.radiofrance.fr/s3/cruiser-production/2016/12/850a10c8-8c06-11e8-a11d-42010ae60007/801x410_sitesdefaultfiles20161205274667nekfeu-cyborg-by-ojoz-123121-lo.jpg"
+        },
+        {
+          "name": "Freeze Corleone",
+          "imageURL": "https://i.scdn.co/image/625b85acc455e768c77d419de6df558feb2b6336"
+        },
+        {
+          "name": "Sneazzy",
+          "imageURL": "https://i.scdn.co/image/c3f8037f7cb80e08f1cdc4b486fa075eb33715f9"
+        },
+        {
+          "name": "Juice WRLD",
+          "imageURL": "https://i.scdn.co/image/d8e62447a338a882b490460da20e90aac6d60ae7"
+        },
+        {
+          "name": "Caballero & JeanJass",
+          "imageURL": "https://i.scdn.co/image/01b4c362c10571eeacee0af7715d32e28732a5df"
+        },
+        {
+          "name": "Travis Scott",
+          "imageURL": "https://i.scdn.co/image/fec51156ed94b7ee30fbd4c7fd29b4a840e7daec"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "imageURL": "https://themusicnetwork.com/wp-content/uploads/spotify-enlists-wiz-khalifa-for-relaunched-kids-category.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Albums sélctionnés",
+      "artistGrid": false,
+      "content": [
+        {
+          "name": "LMF",
+          "imageURL": "https://pbs.twimg.com/profile_images/1297355320189222912/__CfYSlA_400x400.jpg"
+        },
+        {
+          "name": "Adios Bahamas",
+          "imageURL": "https://m.media-amazon.com/images/I/81HQ44wA0XL._SS500_.jpg"
+        },
+        {
+          "name": "Heaven Or Hell",
+          "imageURL": "https://media.pitchfork.com/photos/5e6fa0935d64430008c92fa0/1:1/w_600/Heaven%20or%20Hell_Don%20Toliver.jpg"
+        },
+        {
+          "name": "Astroworld",
+          "imageURL": "https://d3fa68hw0m2vcc.cloudfront.net/ca3/203543227.jpeg"
+        },
+        {
+          "name": "Les Étoiles vagabondes",
+          "imageURL": "https://i.scdn.co/image/ab67616d0000b273593010ad0fe1ceee884cd756"
+        },
+        {
+          "name": "Rolling Papers",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71WRHYmYu5L._SX425_.jpg"
+        },
+        {
+          "name": "The Scotts",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/48/The_Scotts_-_The_Scotts.png"
+        },
+        {
+          "name": "NO FUTURE",
+          "imageURL": "https://images.genius.com/6ff98c4bd5c4f83391842bb45dfa96f5.300x300x1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Artistes recommandés",
+      "artistGrid": true,
+      "content": [
+        {
+          "name": "Juice WRLD",
+          "imageURL": "https://i.scdn.co/image/d8e62447a338a882b490460da20e90aac6d60ae7"
+        },
+        {
+          "name": "Freeze Corleone",
+          "imageURL": "https://i.scdn.co/image/625b85acc455e768c77d419de6df558feb2b6336"
+        },
+        {
+          "name": "Travis Scott",
+          "imageURL": "https://i.scdn.co/image/fec51156ed94b7ee30fbd4c7fd29b4a840e7daec"
+        },
+        {
+          "name": "Nekfeu",
+          "imageURL": "https://cdn.radiofrance.fr/s3/cruiser-production/2016/12/850a10c8-8c06-11e8-a11d-42010ae60007/801x410_sitesdefaultfiles20161205274667nekfeu-cyborg-by-ojoz-123121-lo.jpg"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "imageURL": "https://themusicnetwork.com/wp-content/uploads/spotify-enlists-wiz-khalifa-for-relaunched-kids-category.jpg"
+        },
+        {
+          "name": "Caballero & JeanJass",
+          "imageURL": "https://i.scdn.co/image/01b4c362c10571eeacee0af7715d32e28732a5df"
+        },
+        {
+          "name": "Sneazzy",
+          "imageURL":"https://i.scdn.co/image/c3f8037f7cb80e08f1cdc4b486fa075eb33715f9"
+        }
+      ]
+    },
+    {
+      "title": "Créé pour vous",
+      "artistGrid": false,
+      "content": [
+        {
+          "name": "Deux Frères",
+          "imageURL": "https://www.abcdrduson.com/wp-content/uploads/2019/04/pnl-deux-freres.png"
+        },
+        {
+          "name": "Shoot for the stars aim for the moon",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/be/ShootForTheStarsAimForTheMoon.png"
+        },
+        {
+          "name": "M.I.L.S 3",
+          "imageURL": "https://static.fnac-static.com/multimedia/Images/FR/NR/b3/19/b3/11737523/1507-1/tsp20200309114200/M-I-L-S-3.jpg"
+        },
+        {
+          "name": "Mafana",
+          "imageURL": "https://images.genius.com/1de08380e048dfc10fc3ea9a4b55f63a.500x500x1.jpg"
+        },
+        {
+          "name": "After Hours",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/A1j7-Mj3aHL._SL1500_.jpg"
+        },
+        {
+          "name": "NOUVO MODE",
+          "imageURL": "https://static.fnac-static.com/multimedia/Images/FR/NR/db/19/b3/11737563/1540-1/tsp20200207103135/Nouvo-Mode.jpg"
+        },
+        {
+          "name": "NO FUTURE",
+          "imageURL": "https://images.genius.com/6ff98c4bd5c4f83391842bb45dfa96f5.300x300x1.jpg"
+        },
+        {
+          "name": "Heaven Or Hell",
+          "imageURL": "https://media.pitchfork.com/photos/5e6fa0935d64430008c92fa0/1:1/w_600/Heaven%20or%20Hell_Don%20Toliver.jpg"
+        },
+        {
+          "name": "LMF",
+          "imageURL": "https://pbs.twimg.com/profile_images/1297355320189222912/__CfYSlA_400x400.jpg"
+        },
+        {
+          "name": "Adios Bahamas",
+          "imageURL": "https://m.media-amazon.com/images/I/81HQ44wA0XL._SS500_.jpg"
+        },
+        {
+          "name": "Les Étoiles Vagabondes",
+          "imageURL": "https://i.scdn.co/image/ab67616d0000b273593010ad0fe1ceee884cd756"
+        },
+        {
+          "name": "Rolling Papers",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71WRHYmYu5L._SX425_.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Artistes recommandés LOL",
+      "artistGrid": true,
+      "content": [
+        {
+          "name": "Nekfeu",
+          "imageURL": "https://cdn.radiofrance.fr/s3/cruiser-production/2016/12/850a10c8-8c06-11e8-a11d-42010ae60007/801x410_sitesdefaultfiles20161205274667nekfeu-cyborg-by-ojoz-123121-lo.jpg"
+        },
+        {
+          "name": "Freeze Corleone",
+          "imageURL": "https://i.scdn.co/image/625b85acc455e768c77d419de6df558feb2b6336"
+        },
+        {
+          "name": "Sneazzy",
+          "imageURL": "https://i.scdn.co/image/c3f8037f7cb80e08f1cdc4b486fa075eb33715f9"
+        },
+        {
+          "name": "Juice WRLD",
+          "imageURL": "https://i.scdn.co/image/d8e62447a338a882b490460da20e90aac6d60ae7"
+        },
+        {
+          "name": "Caballero & JeanJass",
+          "imageURL": "https://i.scdn.co/image/01b4c362c10571eeacee0af7715d32e28732a5df"
+        },
+        {
+          "name": "Travis Scott",
+          "imageURL": "https://i.scdn.co/image/fec51156ed94b7ee30fbd4c7fd29b4a840e7daec"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "imageURL": "https://themusicnetwork.com/wp-content/uploads/spotify-enlists-wiz-khalifa-for-relaunched-kids-category.jpg"
+        }
+      ]
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Liked Songs",
+      "author": "Brice Deguigne",
+      "imageURL": "https://img.discogs.com/rtWY1w2laqQYSLWgfTs959UVDX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12773291-1541681041-1214.jpeg.jpg"
+    },
+    {
+      "name": "US Songs",
+      "author": "Brice Deguigne",
+      "imageURL": "https://blog.patrickstereocap.com/wp-content/uploads/edd/2020/07/ab67616d0000b273014aa64c37f1c3149e98ddce.jpg"
+    },
+    {
+      "name": "Chill",
+      "author": "Brice Deguigne",
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51Jv6wC2mLL._SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Instrumental",
+      "author": "Brice Deguigne",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273b87ed7ad43e7afdfe4d715f3"
+    },
+    {
+      "name": "Que du lourd",
+      "author": "Brice Deguigne",
+      "imageURL": "https://img.discogs.com/jDCIpMl6C5292mlW6QPD02Z3XAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15005099-1585403439-4098.jpeg.jpg"
+    },
+    {
+      "name": "Lo-Fi",
+      "author": "Brice Deguigne",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273bcf09854b52416990676ad6e"
+    },
+    {
+      "name": "It's Lit",
+      "author": "Brice Deguigne",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dVdX2bgIL._SL1000_.jpg"
+    },
+    {
+      "name": "XXXTENTACION",
+      "author": "Brice Deguigne",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71GBsl4AoqL._SY355_.jpg"
+    }
+  ],
+  "library_artists": [
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://img.discogs.com/rtWY1w2laqQYSLWgfTs959UVDX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12773291-1541681041-1214.jpeg.jpg"
+    },
+    {
+      "name": "Jaden",
+      "imageURL": "https://blog.patrickstereocap.com/wp-content/uploads/edd/2020/07/ab67616d0000b273014aa64c37f1c3149e98ddce.jpg"
+    },
+    {
+      "name": "Derek Pope",
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51Jv6wC2mLL._SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Soudrière",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273b87ed7ad43e7afdfe4d715f3"
+    },
+    {
+      "name": "Kpri",
+      "imageURL": "https://img.discogs.com/jDCIpMl6C5292mlW6QPD02Z3XAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15005099-1585403439-4098.jpeg.jpg"
+    },
+    {
+      "name": "ChilledCow",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273bcf09854b52416990676ad6e"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dVdX2bgIL._SL1000_.jpg"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://img.discogs.com/rtWY1w2laqQYSLWgfTs959UVDX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12773291-1541681041-1214.jpeg.jpg"
+    },
+    {
+      "name": "Jaden",
+      "imageURL": "https://blog.patrickstereocap.com/wp-content/uploads/edd/2020/07/ab67616d0000b273014aa64c37f1c3149e98ddce.jpg"
+    },
+    {
+      "name": "Derek Pope",
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51Jv6wC2mLL._SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Soudrière",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273b87ed7ad43e7afdfe4d715f3"
+    },
+    {
+      "name": "Kpri",
+      "imageURL": "https://img.discogs.com/jDCIpMl6C5292mlW6QPD02Z3XAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15005099-1585403439-4098.jpeg.jpg"
+    },
+    {
+      "name": "ChilledCow",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273bcf09854b52416990676ad6e"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dVdX2bgIL._SL1000_.jpg"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://img.discogs.com/rtWY1w2laqQYSLWgfTs959UVDX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12773291-1541681041-1214.jpeg.jpg"
+    },
+    {
+      "name": "Jaden",
+      "imageURL": "https://blog.patrickstereocap.com/wp-content/uploads/edd/2020/07/ab67616d0000b273014aa64c37f1c3149e98ddce.jpg"
+    },
+    {
+      "name": "Derek Pope",
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51Jv6wC2mLL._SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Soudrière",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273b87ed7ad43e7afdfe4d715f3"
+    },
+    {
+      "name": "Kpri",
+      "imageURL": "https://img.discogs.com/jDCIpMl6C5292mlW6QPD02Z3XAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15005099-1585403439-4098.jpeg.jpg"
+    },
+    {
+      "name": "ChilledCow",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273bcf09854b52416990676ad6e"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dVdX2bgIL._SL1000_.jpg"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://img.discogs.com/rtWY1w2laqQYSLWgfTs959UVDX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12773291-1541681041-1214.jpeg.jpg"
+    },
+    {
+      "name": "Jaden",
+      "imageURL": "https://blog.patrickstereocap.com/wp-content/uploads/edd/2020/07/ab67616d0000b273014aa64c37f1c3149e98ddce.jpg"
+    },
+    {
+      "name": "Derek Pope",
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51Jv6wC2mLL._SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Soudrière",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273b87ed7ad43e7afdfe4d715f3"
+    },
+    {
+      "name": "Kpri",
+      "imageURL": "https://img.discogs.com/jDCIpMl6C5292mlW6QPD02Z3XAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15005099-1585403439-4098.jpeg.jpg"
+    },
+    {
+      "name": "ChilledCow",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273bcf09854b52416990676ad6e"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dVdX2bgIL._SL1000_.jpg"
+    },{
+      "name": "Travis Scott",
+      "imageURL": "https://img.discogs.com/rtWY1w2laqQYSLWgfTs959UVDX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12773291-1541681041-1214.jpeg.jpg"
+    },
+    {
+      "name": "Jaden",
+      "imageURL": "https://blog.patrickstereocap.com/wp-content/uploads/edd/2020/07/ab67616d0000b273014aa64c37f1c3149e98ddce.jpg"
+    },
+    {
+      "name": "Derek Pope",
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51Jv6wC2mLL._SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Soudrière",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273b87ed7ad43e7afdfe4d715f3"
+    },
+    {
+      "name": "Kpri",
+      "imageURL": "https://img.discogs.com/jDCIpMl6C5292mlW6QPD02Z3XAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15005099-1585403439-4098.jpeg.jpg"
+    },
+    {
+      "name": "ChilledCow",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273bcf09854b52416990676ad6e"
+    },
+    {
+      "name": "Travis Scott",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dVdX2bgIL._SL1000_.jpg"
+    }
+  ]
+}

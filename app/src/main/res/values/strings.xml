@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Spotify Clone</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_library">Your Library</string>
+    <string name="author_name">by %1$s</string>
+
+    <!-- Library -->
+    <string name="tab_text_1">Playlists</string>
+    <string name="tab_text_2">Artists</string>
+
+    <!-- Search -->
+
+    <string name="search_field">Artists, songs, or podcasts</string>
+
+    <!-- Nom des albums -->
+    <string name="astroworld">Astroworld</string>
+    <string name="dans_la_legende">Dans la légende</string>
+    <string name="heaver_or_hell">Heaven Or Hell</string>
+    <string name="the_saga_of_wiz_khalifa">The Saga of Wiz Khalifa</string>
+    <string name="legends_never_die">Legends Never Die</string>
+    <string name="reality_check">Reality Check</string>
+    <string name="the_scotts">THE SCOTTS</string>
+    <string name="no_future">NO FUTURE</string>
+    <string name="nouvo_mode">NOUVO MODE</string>
+    <string name="adios_bahamas">Adios Bahamas</string>
+    <string name="les_etoiles_vagabondes">Les étoiles vagabondes</string>
+    <string name="amen">Amen</string>
+
+    <!-- Nom des artistes -->
+    <string name="dontoliver">Don Toliver</string>
+    <string name="juice">Juice WRLD</string>
+    <string name="nekfeu">Nekfeu</string>
+    <string name="nepal">Nepal</string>
+    <string name="pnll">PNL</string>
+    <string name="richbrian">Rich Brian</string>
+    <string name="sneazzy">Sneazzy</string>
+    <string name="swaelee">Swae Lee</string>
+    <string name="travisscott">Travis Scott</string>
+    <string name="wiz">Wiz Khalifa</string>
+
+    <!-- Create Playlist Activity -->
+    <string name="instructionText">Donnez un nom à votre playlist</string>
+    <string name="cancel">Annuler</string>
+    <string name="Create">Créer</string>
+
+</resources>

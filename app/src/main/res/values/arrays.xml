@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors">
+        <item name="card1">#C08552</item>
+        <item name="card2">#5E3023</item>
+        <item name="card3">#895737</item>
+        <item name="card4">#5C6784</item>
+        <item name="card5">#1D263B</item>
+        <item name="card6">#4CB963</item>
+        <item name="card7">#666A86</item>
+        <item name="card8">#333333</item>
+        <item name="card9">#B48B7D</item>
+        <item name="card10">#595A4A</item>
+        <item name="card11">#41337A</item>
+        <item name="card12">#6EA4BF</item>
+        <item name="card13">#D90368</item>
+        <item name="card14">#343A1A</item>
+        <item name="card15">#7A306C</item>
+        <item name="card16">#8E8DBE</item>
+        <item name="card17">#E18335</item>
+        <item name="card18">#0072BB</item>
+        <item name="card19">#FAD8D6</item>
+        <item name="card20">#CD5334</item>
+    </string-array>
+</resources>
